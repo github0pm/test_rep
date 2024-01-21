@@ -8,5 +8,5 @@ int main()
 
   cout << "Hello, GitHub!!!\n";
 
-  cout << "Hello, FORK !!!\n";
+  cout << "Hello, FORK: GitHub pull request !!!\n";
 }
