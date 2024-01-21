@@ -7,4 +7,6 @@ int main()
   cout << "Hello, CMake!!!\n";
 
   cout << "Hello, GitHub!!!\n";
+
+  cout << "Hello, FORK !!!\n";
 }
