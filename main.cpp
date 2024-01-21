@@ -8,6 +8,8 @@ int main()
 
   cout << "Hello, GitHub!!!\n";
 
+  cout << "Hello, FORK: GitHub pull request !!!\n";
+
   cout << "New Pull Request !!!\n";
   
   // pull request
